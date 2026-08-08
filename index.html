@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<title>نظام بيانات المدربين</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<h1>قاعدة بيانات وأكواد وظيفية للمدربين</h1>
+<p>منصة بحث واستعراض بيانات المدربين</p>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>البحث عن مدرب/ة</h2>
+
+<div class="search-box">
+<input type="text" id="searchInput" placeholder="ادخل رقم المدرب أو الاسم">
+<button onclick="searchTrainer()">بحث</button>
+</div>
+
+<br>
+
+<a href="add_trainer.php">
+<button>إضافة مدرب</button>
+</a>
+
+<a href="all_trainers.php">
+<button>إظهار جميع المدربين</button>
+</a>
+
+</div>
+
+<div id="result" class="result-card"></div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
