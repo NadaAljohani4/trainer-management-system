@@ -205,8 +205,6 @@ The repository contains only the application source code and a safe database con
 
 **Nada Baker Aljohani**
 
-Web Developer
+Digital College of Technology for Girls (TVTC) – Jeddah
 
-Digital College of Technology for Girls – Jeddah
-
-Graduation Year: 2026
+Web Developer - Graduation Year: 2026
