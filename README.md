@@ -1,5 +1,9 @@
 # Trainer Management System
 
+<p align="center">
+  <img src="images/home.png" width="900">
+</p>
+
 A web-based trainer management system developed during cooperative training to organize, search, view, add, and update trainer information using PHP and MySQL.
 
 ---
