@@ -1,4 +1,4 @@
-# قاعدة بيانات وأكواد وظيفية للمدربين | Trainer Management System
+# Trainer Management System
 
 A web-based trainer management system developed during cooperative training to organize, search, view, add, and update trainer information using PHP and MySQL.
 
